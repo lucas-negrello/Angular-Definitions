@@ -21,17 +21,17 @@
 
 - [3 - Decorators Mais Comuns](#3-decorators-mais-comuns)
    - [3.1 - @Input()](#31-decorator-input)
-     - [3.1.1 - Input('<ALIAS>')](#311-inputalias)
+     - [3.1.1 - Input('\<ALIAS\>')](#311-inputalias)
      - [3.1.2 - Input({required:true})](#312-inputrequiredtrue)
-     - [3.1.3 - Input({required: <boolean>, alias: <string>, transform: <function>})](#313-inputrequired-boolean-alias-string-transform-function)
+     - [3.1.3 - Input({required: \<boolean\>, alias: \<string\>, transform: \<function\>})](#313-inputrequired-boolean-alias-string-transform-function)
      - [3.1.4 - Input com get e set](#314-input-com-get-e-set)
    - [3.2 - @Output()](#32-decorator-output)
      - [3.2.1 - Output('<ALIAS>')](#321-outputalias)
    - [3.3 - Two-Way-Data-Binding](#33-two-way-data-binding)
 
 - [4 - Diretivas Mais Comuns](#4-diretivas-mais-comuns)
-   - [4.1 - Diretiva *ngIf="/<BOOLEAN/>"](##41-diretiva-ngif-=-<boolean>)
-   - [4.2 - Diretiva *ngFor="let item of items"](##42-diretiva-ngfor-let-item-of-items)
+   - [4.1 - Diretiva *ngIf="\<BOOLEAN\>"](##41-diretiva-ngif)
+   - [4.2 - Diretiva *ngFor="let item of items"](##42-diretiva-ngfor)
    - [4.3 - Diretiva de atributo NgStyle](##43-diretiva-de-atributo-ngstyle)
    - [4.4 - Diretiva de atributo NgClass](##44-diretiva-de-atributo-ngclass)
    - [4.5 - Introdução aos Pipes](##45-introducao-aos-pipes)
@@ -385,7 +385,7 @@ preenchido quando o componente for chamado.
 
 # 4. Diretivas Mais Comuns
 
-## 4.1 Diretiva *ngIf="\<BOOLEAN\>"
+## 4.1 Diretiva *ngIf
 
 - Realiza a renderização do elemento onde a diretiva está conforme o resultado.
 - Caso seja false, nao renderiza o componente no DOM.
@@ -431,7 +431,7 @@ preenchido quando o componente for chamado.
   </ng-template>
 ```
 
-## 4.2 Diretiva *ngFor="let item of items"
+## 4.2 Diretiva *ngFor
 
 - Realiza uma renderização com um laço 'for' em um componente, baseado em dados.
   - Ex.:
