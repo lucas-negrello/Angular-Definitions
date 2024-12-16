@@ -48,8 +48,8 @@
      - [5.2.6 - Usando @ViewChildren()](#526-usando-viewchildren)
      - [5.2.7 - ElementRef](#527-elementref)
    - [5.3 - Diretivas](#53-diretivas)
-     - [5.3.1 - Como Criar Diretiva de Atributo](#532-como-criar-diretiva-de-atributo)
-     - [5.3.2 - Como Passar Valores para as Diretivas](#533-como-passar-valores-para-as-diretivas)
+     - [5.3.1 - Como Criar Diretiva de Atributo](#531-como-criar-diretiva-de-atributo)
+     - [5.3.2 - Como Passar Valores para as Diretivas](#532-como-passar-valores-para-as-diretivas)
 
 
 
