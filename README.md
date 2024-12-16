@@ -30,10 +30,10 @@
    - [3.3 - Two-Way-Data-Binding](#33-two-way-data-binding)
 
 - [4 - Diretivas Mais Comuns](#4-diretivas-mais-comuns)
-   - [4.1 - *ngIf="<BOOLEAN>"](##41-diretiva-ngifboolean)
-   - [4.2 - *ngFor="let item of items"](##42-diretiva-ngforlet-item-of-items)
-   - [4.3 - NgStyle](##43-diretiva-de-atributo-ngstyle)
-   - [4.4 - NgClass](##44-diretiva-de-atributo-ngclass)
+   - [4.1 - Diretiva *ngIf="\<BOOLEAN\>"](##41-diretiva-ngifboolean)
+   - [4.2 - Diretiva *ngFor="let item of items"](##42-diretiva-ngforlet-item-of-items)
+   - [4.3 - Diretiva de atributo NgStyle](##43-diretiva-de-atributo-ngstyle)
+   - [4.4 - Diretiva de atributo NgClass](##44-diretiva-de-atributo-ngclass)
    - [4.5 - Introdução aos Pipes](##45-introdução-aos-pipes)
 
 - [5 - Escopos, Template Variables e Diretivas](#5-escopos-template-variables-e-diretivas)
