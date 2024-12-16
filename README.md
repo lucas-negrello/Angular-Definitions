@@ -2,8 +2,8 @@
 
 ### Menu
 
-1 [Básico](#1-básico)
-   1.1 - [Componente](#11-componente)
+[1 - Básico](#1-básico)
+   [1.1 - Componente](#11-componente)
    1.2 - [Módulo](#12-módulo)
    1.3 - [Comparação entre módulos e componentes](#13-comparação-entre-módulos-e-componentes)
    1.4 - [Regras](#14-regras)
