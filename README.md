@@ -776,7 +776,7 @@ preenchido quando o componente for chamado.
     }
 ```
 
-### 5.2.3 Como utilizar: ***(@ViewChild)***
+### 5.2.3 Como utilizar @ViewChild
 
 - As definições do componente no HTML serão iguais;
 - No arquivo .ts recebemos o template variable dentro do @ViewChild('\<NOME\>');
