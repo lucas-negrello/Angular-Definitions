@@ -42,7 +42,7 @@
    - [5.2 - Template Variables](#52-template-variables)
      - [5.2.1 - Como Utilizar Diretamente no HTML](#521-como-utilizar-diretamente-no-html)
      - [5.2.2 - Como Utilizar no Typescript](#522-como-utilizar-no-typescript)
-     - [5.2.3 - Como Utilizar @ViewChild](#523-como-utilizar-com-viewchild)
+     - [5.2.3 - Como Utilizar @ViewChild](#523-como-utilizar-viewchild)
      - [5.2.4 - Acessando Atributos e Métodos do Componente Referenciado](#524-acessando-atributos-e-métodos-do-componente-referenciado)
      - [5.2.5 - Acessar Child na Renderização do Componente](#525-acessar-child-na-renderização-do-componente)
      - [5.2.6 - Usando @ViewChildren()](#526-usando-viewchildren)
