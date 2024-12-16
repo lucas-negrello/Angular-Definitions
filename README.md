@@ -2,15 +2,15 @@
 
 ### Menu
 
-1. [Básico](#1-básico)
-   1.1. - [Componente](#11-componente)
-   1.2. - [Módulo](#12-módulo)
-   1.3. - [Comparação entre módulos e componentes](#13-comparação-entre-módulos-e-componentes)
-   1.4. - [Regras](#14-regras)
-   1.5. - [Elementos HTML](#15-elementos-html)
-     1.5.1. - [Atributos](#151-atributos)
-     1.5.2. - [Propriedades](#152-propriedades)
-     1.5.3. - [Resumo](#153-resumo)
+1 [Básico](#1-básico)
+   1.1 - [Componente](#11-componente)
+   1.2 - [Módulo](#12-módulo)
+   1.3 - [Comparação entre módulos e componentes](#13-comparação-entre-módulos-e-componentes)
+   1.4 - [Regras](#14-regras)
+   1.5 - [Elementos HTML](#15-elementos-html)
+     1.5.1 - [Atributos](#151-atributos)
+     1.5.2 - [Propriedades](#152-propriedades)
+     1.5.3 - [Resumo](#153-resumo)
 
 2. [Utilizando o Angular - O Básico](#2-utilizando-o-angular---o-básico)
    2.1. - [Property Binding](#21-property-binding)
