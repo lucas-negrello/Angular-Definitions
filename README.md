@@ -43,7 +43,7 @@
      - [5.2.1 - Como Utilizar Diretamente no HTML](#521-como-utilizar-diretamente-no-html)
      - [5.2.2 - Como Utilizar no Typescript](#522-como-utilizar-no-typescript)
      - [5.2.3 - Como Utilizar @ViewChild](#523-como-utilizar-viewchild)
-     - [5.2.4 - Acessando Atributos e Métodos do Componente Referenciado](#524-acessando-atributos-e-métodos-do-componente-referenciado)
+     - [5.2.4 - Como acessar atributos e métodos do componente referenciado](#524-acomo-acessar-atributos-e-métodos-do-componente-referenciado)
      - [5.2.5 - Acessar Child na Renderização do Componente](#525-acessar-child-na-renderização-do-componente)
      - [5.2.6 - Usando @ViewChildren()](#526-usando-viewchildren)
      - [5.2.7 - ElementRef](#527-elementref)
@@ -722,7 +722,7 @@ preenchido quando o componente for chamado.
 
 - Ter acesso a propriedades de um componente filho de forma dinâmica.
 
-### 5.2.1 Como utilizar: ***(diretamente no HTML)***
+### 5.2.1 Como utilizar diretamente no HTML
 
 - Usar o #\<NOME\> referencia o elemento a ser acessado;
 - Usar o ngModel faz com que o Angular ative o changeDetection para o elemento,
@@ -749,7 +749,7 @@ preenchido quando o componente for chamado.
     export class Module{ }
 ```
 
-### 5.2.2 Como utilizar: ***(no Typescript)***
+### 5.2.2 Como utilizar no Typescript
 
 - As definições do componente no HTML serão iguais;
 - No arquivo .ts podemos receber esse elemento através de uma função
